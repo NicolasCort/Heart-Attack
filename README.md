@@ -1,6 +1,8 @@
 # Heart Attack
-The main focus of this program is to see wether a person will have a heart attack based on different variables.\\
+The main focus of this program is to see wether a person will have a heart attack based on different variables.
+
 About this dataset
+
 Age : Age of the patient
 
 Sex : Sex of the patient
