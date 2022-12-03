@@ -1,5 +1,5 @@
 # Heart Attack
-The main focus of this program is to see wether a person will have a heart attack based on different variables. To do this I will use some ML and DL algorithms and compared them to see wich one is the best.
+The main focus of this program is to see wether a person will have a heart attack based on different variables. To do this I will use some Machine earningL and Deep Learning algorithms and compared them to see wich one is the best.
 
 **About this dataset**
 
